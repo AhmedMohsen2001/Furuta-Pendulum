@@ -1,0 +1,31 @@
+updown.o: D:/College/Matlab/rtw/c/src/ext_mode/common/updown.c \
+ D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rtwtypes.h \
+ D:/College/Matlab/simulink/include/rtw_extmode.h \
+ D:/College/Matlab/simulink/include/sysran_types.h \
+ D:/College/Matlab/rtw/c/src/ext_mode/common/ext_types.h \
+ D:/College/Matlab/rtw/c/src/ext_mode/common/ext_share.h \
+ D:/College/Matlab/rtw/c/src/ext_mode/common/ext_svr.h \
+ D:/College/Matlab/rtw/c/src/ext_mode/common/ext_work.h \
+ D:/College/Matlab/rtw/c/src/ext_mode/common/updown_util.h \
+ D:/College/Matlab/rtw/c/src/dt_info.h \
+ D:/College/Matlab/rtw/c/src/ext_mode/common/upsup_public.h
+
+D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rtwtypes.h:
+
+D:/College/Matlab/simulink/include/rtw_extmode.h:
+
+D:/College/Matlab/simulink/include/sysran_types.h:
+
+D:/College/Matlab/rtw/c/src/ext_mode/common/ext_types.h:
+
+D:/College/Matlab/rtw/c/src/ext_mode/common/ext_share.h:
+
+D:/College/Matlab/rtw/c/src/ext_mode/common/ext_svr.h:
+
+D:/College/Matlab/rtw/c/src/ext_mode/common/ext_work.h:
+
+D:/College/Matlab/rtw/c/src/ext_mode/common/updown_util.h:
+
+D:/College/Matlab/rtw/c/src/dt_info.h:
+
+D:/College/Matlab/rtw/c/src/ext_mode/common/upsup_public.h:

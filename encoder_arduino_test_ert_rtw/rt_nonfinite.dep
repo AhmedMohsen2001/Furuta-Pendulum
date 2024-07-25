@@ -1,0 +1,14 @@
+rt_nonfinite.o: \
+ D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rt_nonfinite.c \
+ D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rt_nonfinite.h \
+ D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rtwtypes.h \
+ D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rtGetNaN.h \
+ D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rtGetInf.h
+
+D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rt_nonfinite.h:
+
+D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rtwtypes.h:
+
+D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rtGetNaN.h:
+
+D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rtGetInf.h:

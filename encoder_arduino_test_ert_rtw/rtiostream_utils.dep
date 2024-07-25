@@ -1,0 +1,11 @@
+rtiostream_utils.o: \
+ D:/College/Matlab/toolbox/coder/rtiostream/src/utils/rtiostream_utils.c \
+ D:/College/Matlab/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h \
+ D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rtwtypes.h \
+ D:/College/Matlab/toolbox/coder/rtiostream/src/rtiostream.h
+
+D:/College/Matlab/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h:
+
+D:/MatLab/Device_Drivers_Test/SYS/encoder_arduino_test_ert_rtw/rtwtypes.h:
+
+D:/College/Matlab/toolbox/coder/rtiostream/src/rtiostream.h:

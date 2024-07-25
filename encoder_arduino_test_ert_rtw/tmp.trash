@@ -1,0 +1,9 @@
+
+avrdude: AVR device initialized and ready to accept instructions
+avrdude: Device signature = 0x1e9801 (probably m2560)
+avrdude: reading input file "../encoder_arduino_test.hex"
+avrdude: writing flash (23608 bytes):
+avrdude: 23608 bytes of flash written
+
+avrdude done.  Thank you.
+
